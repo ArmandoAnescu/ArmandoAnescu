@@ -1,8 +1,12 @@
 Hi! I'm Armando and i live in Italy.
 I'm an IT student, and I like:
+
 -Pizza
+
 -Video games
+
 -Programming
+
 One of my favorite video games is Batman Arkham Knight!
 Currently togheter with <a href="https://github.com/NiccoloCherubin"> Niccolo Cherubin</a>
 
