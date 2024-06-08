@@ -12,9 +12,8 @@ Currently togheter with <a href="https://github.com/NiccoloCherubin"> Niccolo Ch
 
 ![](GIFS/kiana.gif)
 
-![ArmandoAnescu's github stats](https://github-readme-stats.vercel.app/api?username=ArmandoAnescu&show_icons=true&theme=swift)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandoAnescu&langs_count=10)
+![ArmandoAnescu's github stats](https://github-readme-stats.vercel.app/api?username=ArmandoAnescu&show_icons=true&theme=swift) 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandoAnescu&langs_count=10)
 
 ![](GIFS/acheron.gif)
 
