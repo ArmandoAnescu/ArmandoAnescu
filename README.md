@@ -1,5 +1,5 @@
-Hi! I'm Armando and i live in Italy.
-I'm an IT student, and I like:
+Hi!👋 I'm Armando😊 and i live in Italy.
+I'm Currently an IT studenthere at IIS Viola Marchesini and I like:
 
 -Pizza
 
