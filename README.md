@@ -8,7 +8,7 @@ I'm Currently an IT student here at IIS Viola Marchesini and I like:
 -Programming
 
 One of my favorite video games is Batman Arkham Knight!
-Currently together with <a href="https://github.com/NiccoloCherubin"> Niccolo Cherubin</a>
+Currently in a relationship with <a href="https://github.com/NiccoloCherubin"> Niccolo Cherubin</a>
 
 ![](GIFS/kiana.gif)
 
