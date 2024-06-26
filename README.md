@@ -1,11 +1,8 @@
-Hi!👋 I'm Armando😊 and i live in Italy.
+Hi!👋 I'm Armando😊 and I live in Italy.
 I'm Currently an IT student here at IIS Viola Marchesini and I like:
-
--Pizza
-
--Video games
-
--Programming
+-Pizza <br>
+-Video games <br>
+-Programming<br>
 
 ## My Programming Languages for now(that i learned or I'm learning rn):
 <div>
