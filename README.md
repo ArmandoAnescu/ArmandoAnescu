@@ -1,5 +1,5 @@
 Hi!👋 I'm Armando😊 and I live in Italy.
-I'm Currently an IT student here at IIS Viola Marchesini and I like:
+I'm Currently an IT student here at IIS Viola Marchesini and I like:<br>
 -Pizza <br>
 -Video games <br>
 -Programming<br>
