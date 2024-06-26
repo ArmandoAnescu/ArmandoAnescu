@@ -4,7 +4,7 @@ I'm Currently an IT student here at IIS Viola Marchesini and I like:<br>
 -Video games <br>
 -Programming<br>
 
-## My Programming Languages for now(that i learned or I'm learning rn):
+## My Programming Languages and other things I use for now(that i learned or I'm learning rn):
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg"  title="C" alt="C" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg"  title="C#" alt="C#" width="60" height="60"/>&nbsp;
