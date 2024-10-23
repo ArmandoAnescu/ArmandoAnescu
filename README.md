@@ -1,10 +1,10 @@
-Hi!👋 I'm Armando😊 and I live in Italy.
-I'm Currently an IT student here at IIS Viola Marchesini and I like:<br>
--Pizza <br>
--Video games <br>
+Hi!👋 I'm Armando😊
+I'm currently an IT student here at IIS Viola Marchesini and I like:<br>
+-Pizza<br>
+-Video games<br>
 -Programming<br>
 
-## My Programming Languages and other things I use for now(that i learned or I'm learning rn):
+## My Arsenal:
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg"  title="C" alt="C" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg"  title="C#" alt="C#" width="60" height="60"/>&nbsp;
@@ -17,15 +17,10 @@ I'm Currently an IT student here at IIS Viola Marchesini and I like:<br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
 </div>
 
-One of my favorite video games is Batman Arkham Knight!
-Currently in a relationship with <a href="https://github.com/NiccoloCherubin"> Niccolo Cherubin</a>
-
 ![](GIFS/kiana.gif)
 
 ![ArmandoAnescu's github stats](https://github-readme-stats.vercel.app/api?username=ArmandoAnescu&show_icons=true&theme=radical) 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandoAnescu&langs_count=10)
-
-![](GIFS/acheron.gif)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandoAnescu&layout=compact&langs_count=10)
 
