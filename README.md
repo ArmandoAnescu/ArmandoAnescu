@@ -20,7 +20,7 @@ I'm currently an IT student here at IIS Viola Marchesini and I like:<br>
 ![](GIFS/kiana.gif)
 
 ![ArmandoAnescu's github stats](https://github-readme-stats.vercel.app/api?username=ArmandoAnescu&show_icons=true&theme=radical) 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandoAnescu&langs_count=10)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandoAnescu&langs_count=10) -->
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandoAnescu&layout=compact&langs_count=10)
 
