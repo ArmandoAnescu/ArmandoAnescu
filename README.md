@@ -21,6 +21,7 @@ I'm currently an IT student here at IIS Viola Marchesini I'm looking forward to:
 ![ArmandoAnescu's github stats](https://github-readme-stats.vercel.app/api?username=ArmandoAnescu&show_icons=true&theme=codeSTACKr) 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandoAnescu&langs_count=10) -->
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandoAnescu&layout=compact&langs_count=10)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandoAnescu&layout=compact&langs_count=10) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandoAnescu&layout=donut)](https://github.com/ArmandoAnescu/github-readme-stats)
 
 ![](GIFS/nahida.gif)
