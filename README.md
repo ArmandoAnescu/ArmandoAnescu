@@ -1,8 +1,7 @@
 Hi!👋 I'm Armando😊
-I'm currently an IT student here at IIS Viola Marchesini and I like:<br>
--Pizza<br>
--Video games<br>
--Programming<br>
+I'm currently an IT student here at IIS Viola Marchesini I'm looking forward to:<br>
+-Learn more and grow<br>
+-Collaborate with people<br>
 
 ## My Arsenal:
 <div>
