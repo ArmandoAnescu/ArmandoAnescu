@@ -1,5 +1,5 @@
 Hi!👋 I'm Armando😊
-I'm currently an IT student here at IIS Viola Marchesini I'm looking forward to:<br>
+I'm currently an IT student here at IIS Viola Marchesini. I'm looking forward to:<br>
 -Learn more and grow<br>
 -Collaborate with people<br>
 
